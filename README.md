@@ -1,8 +1,5 @@
 # PrincessPower
 🌸 Meiteņu sporta grupu un tiešsaistes treniņu atrašanas rīks Latvijā. Piesakies, uzzini padomus un kusties droši!
-
-# PrincessPower 👑🌸
-
 Vienkārša programma, kas palīdz meitenēm atrast sporta grupas, kur justies droši un pieteikties treniņiem. Ietver arī skaistumkopšanas padomus un tiešsaistes treniņu saites.
 
 <h3>Kā lietot</h3>
